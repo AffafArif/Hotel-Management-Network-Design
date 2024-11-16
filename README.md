@@ -19,7 +19,8 @@ Access Points: For providing wireless connectivity to guests and staff.
 End Devices: Laptops, Desktops, Printers, Phones, and Tablets.
 ## Screenshots
 
-![App Screenshot]
+![image](https://github.com/user-attachments/assets/32c29e4f-212c-48c0-a19d-7e5f8e519e4d)
+
 
 
 ## Documentation
